@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfie</h1>
-<h3 align="center">I am a student from  the United Kingdom</h3>
+
+- Student
+- Frontend developer
+- Backend developer
+- Learning ML
 
 <h3 align="center">Languages I can use</h3>
 
