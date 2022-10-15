@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfie</h1>
+<h1>Hi 👋, I'm Alfie</h1>
 
 - Student
 - Frontend developer
