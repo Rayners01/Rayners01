@@ -1,9 +1,9 @@
 # Hi 👋, I'm Alfie
 
-- Student
-- Frontend developer
-- Backend developer
-- Learning ML
+- 🧑‍🎓 Student (Brighton College)
+- 👨‍💻 Frontend developer
+- ⚙️ Backend developer
+- 🤖 Learning ML
 
 ### Languages I can use
 
