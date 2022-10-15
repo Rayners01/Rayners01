@@ -6,7 +6,7 @@
 <h3 align="center">Languages I can use</h3>
 
 <p align="center">
-  <i class="devicon-python-original" height="40">
+  <i class="devicon-github-original colored"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40">
