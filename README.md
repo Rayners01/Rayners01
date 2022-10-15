@@ -5,9 +5,9 @@
 - Backend developer
 - Learning ML
 
-<h3 align="center">Languages I can use</h3>
+<h3>Languages I can use</h3>
 
-<p align="center">
+<p>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"></a>
@@ -19,9 +19,9 @@
   <a href="https://html.spec.whatwg.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
 </p>
 
-<h3 align="center">Frameworks I have used</h3>
+<h3>Frameworks I have used</h3>
 
-<p align="center">
+<p>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"></a>
   <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"></a>
   <a href="https://svelte.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40"></a>
@@ -33,9 +33,9 @@
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"></a>
 </p>
 
-<h3 align="center">Tools I use</h3>
+<h3>Tools I use</h3>
 
-<p align="center">
+<p>
   <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"></a>
   <a href="https://visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"></a>
