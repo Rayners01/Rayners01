@@ -1,11 +1,11 @@
-<h1>Hi 👋, I'm Alfie</h1>
+# Hi 👋, I'm Alfie
 
 - Student
 - Frontend developer
 - Backend developer
 - Learning ML
 
-<h3>Languages I can use</h3>
+### Languages I can use
 
 <p>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"></a>
@@ -19,7 +19,7 @@
   <a href="https://html.spec.whatwg.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
 </p>
 
-<h3>Frameworks I have used</h3>
+### Frameworks I have used
 
 <p>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"></a>
@@ -33,7 +33,7 @@
   <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"></a>
 </p>
 
-<h3>Tools I use</h3>
+### Tools I use
 
 <p>
   <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"></a>
