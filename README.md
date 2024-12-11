@@ -1,9 +1,6 @@
 # Hi 👋, I'm Alfie
 
-- ### 🧑‍🎓 Student (Brighton College)
-- ### 👨‍💻 Frontend developer
-- ### ⚙️ Backend developer
-- ### 🤖 Learning ML
+- ### 🧑‍🎓 Computer Science MEng at University of Warwick (First year)
 
 ## Languages I can use
 
