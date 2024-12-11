@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alfie
 
-- ### 🧑‍🎓 Computer Science MEng at University of Warwick (First year)
+- ### 🧑‍🎓 MEng Computer Science at University of Warwick (First year)
 
 ## Languages I can use
 
